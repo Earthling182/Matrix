@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="DDDFD0"> <!-- BACKGROUND COLOR. -->
+<p style="margin-bottom:6ex"></p> <!-- space between top of page and main heading. -->
+<h1 style="color: #494B3D">KEEPING IT SIMPLE</h1>
+<h2 style="color: #494B3D;">Getting Started</h2>
+<style>h2, p {margin: 0;}</style> <!-- ZERO SPACE between Heading & Paragraph. -->
+<p style= "color: #494B3D;max-width:900px;">Lets begin with a simple text site. No BS selling agenda other than what it is I wish to express here.  Whilst some of what I present is my own view, I do believe strongly that it is very similar for most people who have had similar experiences</p>
+
+</body>
+</html>
